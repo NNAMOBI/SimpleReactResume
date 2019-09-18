@@ -1,0 +1,50 @@
+#container{
+    position: relative;
+    margin: 5% auto;
+    width: 800px;
+    height: 1380px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.name{
+    border: 1px solid white;
+}
+
+img {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 320px;
+    bottom: 60px;
+    background-color: #473687;
+  
+}
+
+.leftbox{
+    position: relative;
+    top: 0;
+    left: 0; 
+}
+
+.rightbox{
+    position: relative; 
+    bottom: 630px;
+    left: 400px;
+}
+
+.contact{
+    position: relative;
+    bottom: 450px;
+    padding: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    /* border: 1px solid white; */
+    background-color: #473687;
+    color: white;
+    height: 450px;
+    
+   
+}
+
